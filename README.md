@@ -1,3 +1,3 @@
 # haskell
-ejemplos de programacion funcional con haskell
-modificando el archivo original
+ejemplos de programacion funcional con haskell.
+Modificando el archivo original
